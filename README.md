@@ -1,6 +1,6 @@
 # JogodeAdivinhacao
 
-Exercício proposto pelo Bootcamp Online de Programador de Software Iniciante, do IGTI. 
+Exercício proposto pelo Bootcamp Online de Programador de Software Iniciante, do IGTI. <br>
 Totalmente feito pelo Javascript, são as etapas:
 
 1 - Gerar um numero aleatorio entre 1 e 100 <br>
